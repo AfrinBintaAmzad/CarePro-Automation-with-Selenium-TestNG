@@ -1,0 +1,9 @@
+<suite thread-count="1" verbose="1" name="CarePro Automation">
+
+    <test name="CarePro Automation">
+        <classes>
+            <class name="testrunner.CareProTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
