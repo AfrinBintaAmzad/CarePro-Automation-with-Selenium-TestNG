@@ -8,6 +8,10 @@
 ## Project short description
 - CarPro admin will search for client and take patient appointment
 
+Documentation:
+- https://docs.google.com/document/d/1vzKjnPjfI0sGjGTK6IR8vKUw9cGu_I7ZdlBGW2UOJB0/edit?usp=sharing
+
+
 ## Output:
 
 ![1](https://github.com/AfrinBintaAmzad/CarePro-Automation-with-Selenium-TestNG/assets/83439797/b04cbabe-ba05-44ac-9d97-f6255c181aff)
